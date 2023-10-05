@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/NetFlixAI/static/css/main.a1d5841b.css",
+    "main.js": "/NetFlixAI/static/js/main.f7ea062c.js",
+    "static/js/787.f87becb3.chunk.js": "/NetFlixAI/static/js/787.f87becb3.chunk.js",
+    "index.html": "/NetFlixAI/index.html",
+    "main.a1d5841b.css.map": "/NetFlixAI/static/css/main.a1d5841b.css.map",
+    "main.f7ea062c.js.map": "/NetFlixAI/static/js/main.f7ea062c.js.map",
+    "787.f87becb3.chunk.js.map": "/NetFlixAI/static/js/787.f87becb3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1d5841b.css",
+    "static/js/main.f7ea062c.js"
+  ]
+}
