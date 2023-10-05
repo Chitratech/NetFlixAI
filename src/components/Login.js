@@ -22,7 +22,7 @@ const Login = () => {
         {/* Black Overlay with Opacity*/}
         <div className="absolute inset-0 bg-black opacity-60"></div>
       </div>
-      <form className="bg-black  p-12 absolute bg-opacity-80 w-4/12  my-36 left-0 mx-auto right-0 text-white">
+      <form className="bg-black  px-14 absolute bg-opacity-80 w-4/12  my-36 left-0 mx-auto right-0 text-white">
         <h2 className="font-bold text-3xl text-white py-4">
           {" "}
           {isSigninForm ? "Sign In" : "Sign Up"}
